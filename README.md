@@ -1,5 +1,6 @@
 # SpringBootRESTAPI-JPA-Hibernate-Mysql
-This the Spring Boot Application create a REST API that will perform CRUD operation using MySQL
+This the Spring Boot Application , which creates a REST API to perform CRUD operation using MySQL<br/>
+This appliation uses JPA, Hibernate.<br/>
 
 Create the Maven Project using eclipse, then add the dependacys in pom.xml, andthen Run as/maven build.<br/>
 Once code added to the Project Runas/Java Applition.
